@@ -1,0 +1,26 @@
+{
+  "name": "Jean Washington",
+  "age": 61,
+  "address": {
+    "street": "Cazi Manor",
+    "city": "Ziholleg",
+    "state": "MA",
+    "zip": "29010"
+  },
+  "contact": {
+    "phone": "(214) 327-7806",
+    "servicePhone": "800168922"
+  },
+  "birthday": "1991-10-04T11:37:08.234Z",
+  "ip": "231.135.208.4",
+  "foo": "bar",
+  "profile": {
+    "about": "Dagtovo vinkijni do cuvru koj edogujon zaubu buc jitvudlur sicujuneg mufobfez vigit pahu ju raz anubidori vom. Usazaf movugci mos niheak nisosdu joefi piwucfar baoweuj gowmo gu fo acoalabo ebo gu barwum. Keh mi vu civow joici mef ro cowemfi fenol ece ov wubon oho poci roj uga. Puv lofac cek da wizuwe sakonlul uwja idu ozmuzi lairu ivtom hi nuewo ovoko ga meblezuv. Bevle dolav relfotpi haf bi riwafja ugagiti curu wa hohetu led piad jepnad sepe otovutbu na mo.",
+    "bio": "Tuzugu bulauz bapu ese fiw nilotu linouki belevik cewva vev avme du kakepetu oldezke ovuhefom. Cik gu oj leede suid uvi jizec boduina ule fi dejdo wauso. Po puspu neat otelujri vuvkopuk sahfiwdav lagsefuno vaop gi esi kapodbug vompe babsi dov te jagkef jowkunnil. Zodto lassel ahabiw raveh ego dabge okalaje nerim jo aduli fowjos onoivo baji jocec ucno zajhoola bo."
+  },
+  "apiKey": "cf54c2333c69e9674ecbb1bba1168ed16c46cade336d30cb531cf7bdf5b74126",
+  "currency": {
+    "code": "MWK",
+    "name": "Malawi Kwacha"
+  }
+}
