@@ -1,0 +1,26 @@
+{
+  "name": "Harvey Doyle",
+  "age": 63,
+  "address": {
+    "street": "Zubuk Street",
+    "city": "Suvaega",
+    "state": "ID",
+    "zip": "52517"
+  },
+  "contact": {
+    "phone": "(801) 795-6963",
+    "servicePhone": "800392761"
+  },
+  "birthday": "1965-11-21T04:56:49.407Z",
+  "ip": "147.138.162.219",
+  "foo": "bar",
+  "profile": {
+    "about": "Hihjo katke celkeab kasmo pib paw bemfahja pa keskera lo wa gi uk. He rapwujnen ner uliwaw ki dodu la zazosca odaboso vivi zulrijva purvo um nit az. Fiidomi acantet neg ahiwlan ji aczu piceije at huz gata boshic cusuzo na li odcob piwap vu. Sadegjoz mer latub muemap paf sazdisero fi ub biannu el tas uceba kuma rofsito tuwkako. Munauf moj gilu van up ud casderew nid jeb tu boculebi vu etu. Ki bezinve teglimzo ipies ugbajvab tuteri duica mimu zojcivjo tupmoju ki uhnewkag vefjew cobveg ganini naha.",
+    "bio": "Hohrut akelizza jozez cadiso oh zes ah ij tineh sekzejag dokanbez uzsos bitkansi nava gen banzome wuz. Lobite fufawwa agdeop dikobvek humku domav moalemuz neklovzid waesemo wolesa es gojac kadmofpi nivzezjod rijev bewuwo tot mopwe. Ciwbuc musu enliv cosad zagursa sijuon pur ojaevjus keztaeg vuulhu ohafuf abidaso ujwumewu. Mivup dofu zemocruc ji tapogib ezuvul edpec soarariz buj jubaase ebaewovaf modhega fotu seiro dupit pe."
+  },
+  "apiKey": "49633ca9188f1d6062874430cf1783c84210cba7c5f452c5f89f908c387d03e2",
+  "currency": {
+    "code": "GIP",
+    "name": "Gibraltar Pound"
+  }
+}
