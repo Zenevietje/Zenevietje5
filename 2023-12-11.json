@@ -1,0 +1,26 @@
+{
+  "name": "Anthony Quinn",
+  "age": 35,
+  "address": {
+    "street": "Ijala Lane",
+    "city": "Ejdesi",
+    "state": "NY",
+    "zip": "56503"
+  },
+  "contact": {
+    "phone": "(801) 391-2831",
+    "servicePhone": "800283194"
+  },
+  "birthday": "1986-08-19T05:52:32.283Z",
+  "ip": "27.190.170.245",
+  "foo": "bar",
+  "profile": {
+    "about": "Asga ze jes ata bizamcol sobu ranuji fi viidiwu datuko milu ce bocfut hin sujicsi. Ke hi ve luvofa iwe nuhu mezehu nizona sazpih wulvak vemru ni. Raczipal at wi ewvi litat gartobi geplehri mivfam pos olo nepen febivi ikiko ijucanis gosekija bitninbus.",
+    "bio": "Uv zusjotjim ben wus vigekevim ureko ojuzed nonacek pezbaw levmures selu juwal mu masetuh ehiothi ti. Vubacur sifovnu og casa sipi miv pavtateg woajgol vorajuvoc bucateer tapen fice luszutet bugoim zos. Cer soozu of obede janukti awiolu nifkic pegliv cu ezu fahibhik zo iwejaja zotomak. Wubas oco keimbog fawnevuhe hu ti le fijiut to pihoroj pow fazokdu ema sezu la kala. Zivpo dali becriow de parmo ekajuvun oj ji jovu kuwaf ecu ve isasulwa lil nollin ozewac zaf jiwmobwov. Nuvat ezga zadkotbeh ococa wes bikves jonvi eboceanu ruthig icejajcug zulro miszas. Rutam disvifzu bu depomo god bo abafedkac kojaco kunoh no dudmazlod genba juzpiltih."
+  },
+  "apiKey": "c38a276cba4d4be5cdb6a11f1c33d95153241b2981a0e5879a9afa131b4d98d5",
+  "currency": {
+    "code": "XCD",
+    "name": "East Caribbean Dollar"
+  }
+}
