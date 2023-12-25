@@ -1,0 +1,26 @@
+{
+  "name": "Elijah Huff",
+  "age": 26,
+  "address": {
+    "street": "Kagu Court",
+    "city": "Gavokul",
+    "state": "NJ",
+    "zip": "25691"
+  },
+  "contact": {
+    "phone": "(466) 770-3211",
+    "servicePhone": "800636111"
+  },
+  "birthday": "1984-06-03T08:07:45.800Z",
+  "ip": "44.13.142.201",
+  "foo": "bar",
+  "profile": {
+    "about": "Kudif teku kujavu zofbohu hitcamem jeh begnu udjof pemteuz jaki olfelbo gacuc ikeop. Unum hulloffu biklopope we agfuz ecowu ko rormat sohzuek ulni luwgefbak desjunis. Ficvic hesatum fozsuud gogo gu cujbo pehif orwewnar ol gumul ral etapak wadfezme.",
+    "bio": "Oszovwot he tawajric vaizomo ni ermo sidajgit bi juathik gav il kog wabojjew iho faron rul matlo mov. Ti fiwvi vawse risen jemmisco fopzeda vema al nirnu abiga devil umhad cu pisig ta. Va pucef lonlinhij lo riwulnud ide okuodi te suvinel awuara heghe tiva wep ovmikfiz dudapo obegalhe hih geh. Bug golrir nozu tusmoz ha itavu cem bajcuja jeveha ijlokdab imvum hogmujfib fic omituk rewekew ri. Mukeguj iw dewadasa kiemevuh memkemic nijpipuvu nereucu jupdazme hidan nimni dirojil ti afemi gedup fuorwi evkeces obhi orega. Zocinla kijfuv hemvatur ak piczuh opfiv ler ruba cucen onukuwvu no lemfedzu ku bedjurag."
+  },
+  "apiKey": "c30b69a2c31dc8792be0d8f5c34206363a9a81d1bd53e034ad22102f4eae19b7",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
