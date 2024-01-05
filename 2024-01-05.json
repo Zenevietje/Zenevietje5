@@ -1,0 +1,26 @@
+{
+  "name": "Lina Graham",
+  "age": 25,
+  "address": {
+    "street": "Zeok Plaza",
+    "city": "Lutofigi",
+    "state": "AZ",
+    "zip": "84780"
+  },
+  "contact": {
+    "phone": "(239) 796-5912",
+    "servicePhone": "800187345"
+  },
+  "birthday": "1989-04-21T02:43:30.413Z",
+  "ip": "53.32.83.134",
+  "foo": "bar",
+  "profile": {
+    "about": "Girgerruw kek sim wuuto jeh nebtu kavveeha vim kir couzunaz gasda ewuna adudig ike ijbi jij ib wumaza. Kenumbo etotul rezeztas tawzazroh uj peznemun geznoza feb co tusihrec kodjo zoor. Potuv fori buibamot bo ufataefe itri vivcu vo zempa falnol funadre upe fifhatucu ki.",
+    "bio": "Sicu ih wilzam tipi paezuzi ka zolzus useudake nu loh sapfufadu dovvo ni ubuve harak. Najdajto juwago pipen cov das lizoma ibkeej cujniwe zotbahif rid vajuz avuvi lelikej su. Hebusu epek mo dap cop maji ja gius bi mib ju koto. Saonwu zinin luikigu jud ret jiajtib pefral aca otoefauzi tuz okiraki nepvo napu kamju ziawe rotegi uh. Maed pifek vikuc doog cazoz ubefidad ihopep ci oru fa obfohdic vicwis daeja."
+  },
+  "apiKey": "bce2210271c5482b555e67c8393aebb83cf869cf989c720334a6c1874c4cef23",
+  "currency": {
+    "code": "LYD",
+    "name": "Libya Dinar"
+  }
+}
