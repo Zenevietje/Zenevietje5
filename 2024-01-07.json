@@ -1,0 +1,26 @@
+{
+  "name": "Christine Murray",
+  "age": 21,
+  "address": {
+    "street": "Acosa Loop",
+    "city": "Ohafocco",
+    "state": "AZ",
+    "zip": "36324"
+  },
+  "contact": {
+    "phone": "(212) 243-5333",
+    "servicePhone": "800113761"
+  },
+  "birthday": "2000-03-20T23:40:30.262Z",
+  "ip": "173.113.106.104",
+  "foo": "bar",
+  "profile": {
+    "about": "Hewih sizrumbow culersi vodaase po kodni uz zig barada sidwe kukiji wuzuca efeob. Zelu ilvin men di tev ba jozcampad dalce tawzamnis mib ejunugun fifizev tagligu ten salioz vupen kivac ko. Cetap nogku vo ukuhe cor kurwina wimij gerel edafala ucobi nepidiz jeifeora cotefa tezarnam az jelritap.",
+    "bio": "Paska bomu dajvi ne zehas tedkoimo rocdof buw tetazifol cataf ju dogpah ibadufgu jeuvvo rilun bis kizimi heh. Foziza sodbumfo jiifola ar tu ugzu morak lig be moseg cofukho fattaf rosimor ab naktiivo. Ma eb miuho kupies neip allolbo mojib su uzebemgez kukogaz buk wahpim niupo azvof go gupkata."
+  },
+  "apiKey": "3fde1770d1b750a136ce2210d8ac19c1f14ffd1c18784540df17b4d3a62b6eda",
+  "currency": {
+    "code": "DKK",
+    "name": "Denmark Krone"
+  }
+}
