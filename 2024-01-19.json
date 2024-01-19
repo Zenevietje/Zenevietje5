@@ -1,0 +1,26 @@
+{
+  "name": "Georgie Bowers",
+  "age": 26,
+  "address": {
+    "street": "Fafo Avenue",
+    "city": "Kamaslu",
+    "state": "GA",
+    "zip": "74992"
+  },
+  "contact": {
+    "phone": "(753) 951-5586",
+    "servicePhone": "800654885"
+  },
+  "birthday": "1994-02-26T21:44:49.430Z",
+  "ip": "5.52.60.39",
+  "foo": "bar",
+  "profile": {
+    "about": "Tibgoob kiwihlam ja rejwasdo nat juvik umipieca sanujic difewumi te ovifepo avugohu. Goftam hephe otorow dobhozi opzejdu jo merop ceca ibuhihhot lag vujanul lelu. Cac fo jo meviwla av taugoron ror jite mo palevub raapci il sid nivjaz jo ge.",
+    "bio": "Caril ijaco pali jun mefhac sol fi zi godgowuk habuz viedze izi jip icciwzav tizrieka. Zes ninuk ase ho bi cuufota otaevpe ruhga rewedwam fak uc fovwebwi. Ral lojamih tug medbesum tepejer sowenene gam ip wa tavilo uk zewasi. Tizziala dawdam eje agupuugu go ov ip efiodicuv ubasevo mo da teseine giir pisakanad luwiwe bus. Lutanli kozbahje ubeul borkulti nurofso juzaz acne doeho pe hijjor op si vadhioda nos zuctova. Bupnesiro kurhu botguzdet fuowo nu bebotkik veguc lihbej zog dawdies vindi vatre fahpu higda keegpo. Dero bidod ov binonam kesih lekjo zalo ubfu neblap epit hozci ibiciva pifnesiw vuad."
+  },
+  "apiKey": "97ee2c69fd5f7281e198412ddabc9deebcb48bc605dd9a0754b54ec44f2ed2f4",
+  "currency": {
+    "code": "BGN",
+    "name": "Bulgaria Lev"
+  }
+}
