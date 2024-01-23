@@ -1,0 +1,26 @@
+{
+  "name": "Lee Simon",
+  "age": 60,
+  "address": {
+    "street": "Tubik Way",
+    "city": "Waamrac",
+    "state": "MO",
+    "zip": "63977"
+  },
+  "contact": {
+    "phone": "(519) 748-7972",
+    "servicePhone": "800755321"
+  },
+  "birthday": "1990-01-31T08:29:33.430Z",
+  "ip": "114.112.102.124",
+  "foo": "bar",
+  "profile": {
+    "about": "Bernoka sinuzzuw huilra fa vu cu ruva jig ipnugiw tenogu jeh vuzdoli humfoce oc ricokcu otebeniv ajdob orwip. Tahjug mipag fedo lut ze ekelivak vaw tukadpuj ilwo gouhdi dop bi hedwa ike bud. Eturigu vid fanoh ral saze vew pekcaro killetoti odaketve cijkago nogaso tanik sisec locejit.",
+    "bio": "Vabali gi bumasez riw me fidahcuf ocka vivef gofazo hosatuc roval kozit. Cejuskuj du or gu zas tukuj maczupam juv jefkekce daanupe luf pigmomwet. Ru seg gigsi forim zilefuf bafpazsu ifobef lil jeg mebomov cu te sagebeb ide. Memiza citbe oha umizu sozaknu mihulon ukupa simzi vunik zehun ema wur ri ogefibo gezi. Til puzuzav genes riizu bin edigizap utulil nor vuhe pole bimipeh ihko carnet su vil ma."
+  },
+  "apiKey": "83f4f0d9078b8103c194ef2f286973a67bf0d712c51bb3e26602e8f8d4284884",
+  "currency": {
+    "code": "PHP",
+    "name": "Philippines Peso"
+  }
+}
