@@ -1,0 +1,26 @@
+{
+  "name": "Ora Evans",
+  "age": 31,
+  "address": {
+    "street": "Limus Way",
+    "city": "Kehruele",
+    "state": "OR",
+    "zip": "09241"
+  },
+  "contact": {
+    "phone": "(565) 342-7646",
+    "servicePhone": "800472165"
+  },
+  "birthday": "1974-10-08T00:39:16.709Z",
+  "ip": "185.235.91.195",
+  "foo": "bar",
+  "profile": {
+    "about": "Zihi satsowpoh toh wef ratesmu en eziowna cuzvodad jeha dov virap willi. Omiomro iwmuv tagel wovfike hakac gusno le bieb es dijowca iw tep gibum. Loofopuw narivmen jofesuz sucubga ojtege feihur ekohuf gupogsu se fijlo gur emhiid ive zu mundi tacuke. Ci fo fogdohha votwuj dap elepipog wu fisatini usoodogom owa tuvtomiz sokuz vuzzaonu oteubu morigit. Sewvawwa tecu rawluf vugada ivnivbep vitlok wul ug cidu veplacnof ihbespof li. Mamze avourra uh vones edzira gafegvem pubihuh wengimgib tawsep sugaw ohni giok mah fep we fenlel. Fu zowdof ganub bucbagrij nededne kidoz zais ro sosgoet wofgevki tuziba kapaz gottem.",
+    "bio": "Vor ke eworunet dit ir ebigimga havoda ag sat vi zour ucizomul zi. Fuzilofi hagjob mibra wosa kuzfohom becaadu edbom he borbicnu kuv jijcaku buv. Wa ugecer rijbeut kozga wubka doniogu imeeg dikcep zunaazi dem ute pa hilurhe nofuro. Bog neseje wewfo fipobor gatwadto guehaag kuleewe tefi kole liwic sawaton vectos mu up buruwde levirfe wuvi jif. Dikin ga hibvafot toco ruhi rorilros abdi aju unkospir vumuter kovju ud makavo manmouf. Maek ifaril saw guviga ile ecpof pa japtivrom bulpij ripazfi edaehuvig vufangi memlaz febhove ganirlu go."
+  },
+  "apiKey": "f7c1c704332ffc3de4b399c701d5dc86f47823d924347d69af3eb27a41d33dd9",
+  "currency": {
+    "code": "AMD",
+    "name": "Armenia Dram"
+  }
+}
