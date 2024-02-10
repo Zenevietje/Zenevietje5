@@ -1,0 +1,26 @@
+{
+  "name": "Brent Hines",
+  "age": 28,
+  "address": {
+    "street": "Fitpem Path",
+    "city": "Netmorcuw",
+    "state": "DC",
+    "zip": "24786"
+  },
+  "contact": {
+    "phone": "(464) 972-4317",
+    "servicePhone": "800553583"
+  },
+  "birthday": "1991-03-20T02:44:28.925Z",
+  "ip": "149.25.165.126",
+  "foo": "bar",
+  "profile": {
+    "about": "Rog wiman okufaw vi ofpupu pev to olhe jumiz lic duhnihet zenac ze osahe hamu. Renur kognec kebtiggo di kasizuno gu safet acpujtas tucvi nehdatdi tucuvewo ici didonet efvo. Mihbim kut unatoowu seukde tu uji uro ijovojna dotweluh jegapfo mejo eznet vacaznug eca dilmomij.",
+    "bio": "Luhipet tadjufih soma do koholutu mon mitsobso eb na gewrut dibejej bimazopes ili lec keijuce mebsoli. Gebgo rat sih mekih ova azo tabav ju fejib fojelrow asiuko bedkur kivsemeb ojudbe. Jabkicod dojso jefsicik ip mude tewcazi biv feajoros vorwuuwi tapko ne naspar cinif garevom tipavah powo ki pimcu."
+  },
+  "apiKey": "19c3aae1e651e9862bdbcccca9ffa9ade0d90262d150410568ee1728f9ec5664",
+  "currency": {
+    "code": "AFN",
+    "name": "Afghanistan Afghani"
+  }
+}
