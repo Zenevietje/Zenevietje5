@@ -1,0 +1,26 @@
+{
+  "name": "Jeffery Stevenson",
+  "age": 33,
+  "address": {
+    "street": "Rawe Road",
+    "city": "Hiregog",
+    "state": "ME",
+    "zip": "63392"
+  },
+  "contact": {
+    "phone": "(900) 832-4330",
+    "servicePhone": "800987899"
+  },
+  "birthday": "1983-11-06T04:56:01.850Z",
+  "ip": "170.167.183.81",
+  "foo": "bar",
+  "profile": {
+    "about": "Vivvo kohe ikefamsap upipova gudulur jo va ope utiokewif du nohlara nim nuz zukwo lejo. Rasifi vam ajo ivnopu saiveha tojdanwib mojwap ekuwcez mujogwe wihapce cer re covdopo gogfuk. Nez su hucicij woz sefcale ila arugarig pijkaija gurim leeboedu og mobzicni. Ci egat kos abujaru iw gudum varvu manmabi vodji nudip kerocko fiklesis vehanega umu guef ku. Va becuta bu zew narzico ko ninen la cijes abuuh hudar febu owsew divoc tawfifep sa dez ko. Hodamune norape mebra det zejoh luduwimin ar tev zewiw wumpif asne faneci tuveb.",
+    "bio": "Fer ozbaguc zikpib sojij va waniro iro ocehu ne rivoho elegijo purluebe hegen juade wi efkil jawlenud pugpizmu. Toran pajenid ir ma sowa fabob ubdujib orke ren ne kola dehuko bep cusede. Kab we mazezfub fehu fu pazgor so wis adte tuskoju go nebelo veulo wazoggub kas cecimij fi cujep. Muv atepeb huvocow woczagnog baingiv ofepusdib zuf jis gikhamip tupepva coguldip acamab upobuzim."
+  },
+  "apiKey": "5decf0f83922b55108c38f16be98464e7459809ebf30b60d3c930be30d06df98",
+  "currency": {
+    "code": "ILS",
+    "name": "Israel Shekel"
+  }
+}
