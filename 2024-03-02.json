@@ -1,0 +1,26 @@
+{
+  "name": "Virginia Reed",
+  "age": 33,
+  "address": {
+    "street": "Nevi Junction",
+    "city": "Miijeopo",
+    "state": "NH",
+    "zip": "73915"
+  },
+  "contact": {
+    "phone": "(829) 265-5607",
+    "servicePhone": "800212852"
+  },
+  "birthday": "1974-08-30T23:23:51.025Z",
+  "ip": "190.97.113.164",
+  "foo": "bar",
+  "profile": {
+    "about": "Umuulafeg ir sagutne lubkoude bo mi wi reuktu rekip dic ba le roviz zan jaori. Calwezag goperhaw uzde ruzvor baw etumuvut ohpi luvac liksor hu arvofut ulfahap jumuvlu. Saweri ha los ovnovzof gijo fuzho tanooc so ehuleoki paganudi no niatzol kowi eju cif cutet na utiwomaj.",
+    "bio": "Hihajew we ho kibewno gojsuz liudica jok wuefuses nombar uctacof jirrobi kedeg ve wuzar tulmanav apki. Ocaofme vimnufjo wahidluf ripa coeluwi tuufcu udfumuz sil gegwipkid awieni ma umucidew mafurueso evku kigidra za en. Havba ucwakdu fa acow tuf sormifgo emuba la sopouw jajhavna puggupev mikafaaf baibu escestu."
+  },
+  "apiKey": "1e43ca89f45c3c3aea739dc44d33cc925f96902ec1e4f20a998427110a7bf734",
+  "currency": {
+    "code": "GTQ",
+    "name": "Guatemala Quetzal"
+  }
+}
