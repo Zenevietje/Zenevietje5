@@ -1,0 +1,26 @@
+{
+  "name": "Gene Park",
+  "age": 58,
+  "address": {
+    "street": "Jevrep River",
+    "city": "Ungenov",
+    "state": "ME",
+    "zip": "34427"
+  },
+  "contact": {
+    "phone": "(901) 965-2379",
+    "servicePhone": "800797575"
+  },
+  "birthday": "1995-12-18T00:36:24.171Z",
+  "ip": "56.69.251.240",
+  "foo": "bar",
+  "profile": {
+    "about": "Vorpeh esiura faga nu abarucif inpula oma ruvad vus ug irolus te ogvaof go lezjok. Ma bog hebgaib inuhiwum johuzuz agra tepgi gevezej ajafi kijdevef lugsip vemi hizbitsul hipebu. Umoju giwfeh iw ep udukuke irvumid ze puji jibce tab nukanjib pe febam. So aroifo vi awuujaeru ub fac efce pauvebi abi bigti releze ivciznap navsogjud.",
+    "bio": "Jukfa ari odujir kirawufe gak mabaip gab ohiziha us risaflu ab pugeszi odesuk. Sej ga ufutufsub lah barujaluk nogep ke dottu walaig tan afauzobek tik. Balocuc cac iz rub newjinapa foc ucabit bokesu vato orvo maf ga vekak gizaz sodnid."
+  },
+  "apiKey": "75dbcd36f4c6fe405a4d60af639b3d60806e65a071b62585cf06997a49e76f9e",
+  "currency": {
+    "code": "PLN",
+    "name": "Poland Zloty"
+  }
+}
