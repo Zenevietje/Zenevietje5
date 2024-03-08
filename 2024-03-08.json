@@ -1,0 +1,26 @@
+{
+  "name": "Bertie Schmidt",
+  "age": 18,
+  "address": {
+    "street": "Onbin Ridge",
+    "city": "Junivici",
+    "state": "MA",
+    "zip": "25853"
+  },
+  "contact": {
+    "phone": "(432) 922-2514",
+    "servicePhone": "800483122"
+  },
+  "birthday": "2005-07-27T22:14:26.895Z",
+  "ip": "130.161.19.31",
+  "foo": "bar",
+  "profile": {
+    "about": "Wofode la wor hiw jucrite caehmek burma soke geczo mah pulre nilco tidwudo ponkemu jiiz wobuccuf jovgi jakuhas. Eku mo jit go afe dacdo gulenede ugecit coida vaano be las hen. No su ba si ikho sobah viwa nip sakat jeumaho eb ogdo bof to ej huhpeski selug hase.",
+    "bio": "Igi hekmawib jukgikwut buszizut ga suec golul kanolojim fi nid kusuncuk ihdori sebvoj ure wo kizer wol. Omekac owvihjig wowmaaw ve dip ofpuv ivarijcuv himop ne joz ulu welletaza is. Fikipow fac catop ki ci go ohium wa sinah ricoeku mo eme ki fosimfe pojazu hotimlaj hukezmov itepadu. Cudverpuh fubhil ujuor gi ibohif sud pa go widro pat jov vonujved camavi kevu caredas nawif."
+  },
+  "apiKey": "3f506599eef39034559bc0b39cd93921f30323f3e872721fa968add5b954d879",
+  "currency": {
+    "code": "HNL",
+    "name": "Honduras Lempira"
+  }
+}
