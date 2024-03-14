@@ -1,0 +1,26 @@
+{
+  "name": "Edna King",
+  "age": 28,
+  "address": {
+    "street": "Temov Pass",
+    "city": "Tefupag",
+    "state": "SC",
+    "zip": "30727"
+  },
+  "contact": {
+    "phone": "(788) 641-8608",
+    "servicePhone": "800981691"
+  },
+  "birthday": "1984-07-11T10:29:13.457Z",
+  "ip": "19.148.160.41",
+  "foo": "bar",
+  "profile": {
+    "about": "Reh woben matap wuteg padem wusac rihjalpa puwzi dak samvukuz wuwerdar vo fijhibtuf cid. How nez vefojvi pufdiwgur odre owaut huz male fenar gufocug bi opatuvaw uvi ropi ralicaf ije. Sa uzo ubiwi divwaege cihuan fa ucmat cit cubumic viasa ebofed giw moet. Tivoh duwlouzi cape dief wisumifa keiluti uzcujfug talauw ogapi firpiga huwep ukmeif fameze.",
+    "bio": "Cirkusup ho facizef nazef dehela ziva fuuse zolzu fimguk litve kilwubzaw fucon fo izdiom kirovmes. Vace luleaga tu ruv jozola hekvadut wuvuiji haw pev azaneduro uduvo ridbila. Zemuw bum jof elmev rohlonsof nirtaf lizerga lezteje timriv cubu wezij gadatuc sehu uk macasi. Zawneva va nitfu hiofu mias va tujkah wec deh onoatafi du comalsu dasgactet zula. Uro id didpe ikace vidiji hihiwhiw tejlub lifewce tutaiv hoilifi tuhnoaca vos foijbid kuhzar kaaw liiwzov."
+  },
+  "apiKey": "b29437d8a58d7617de742b97d1bd8e3bb6bfe1eee3f6c06e0c5484a079ea9532",
+  "currency": {
+    "code": "ISK",
+    "name": "Iceland Krona"
+  }
+}
