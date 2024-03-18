@@ -1,0 +1,26 @@
+{
+  "name": "Danny Keller",
+  "age": 29,
+  "address": {
+    "street": "Wijwa Key",
+    "city": "Rofidaf",
+    "state": "ND",
+    "zip": "41942"
+  },
+  "contact": {
+    "phone": "(637) 258-1743",
+    "servicePhone": "800281842"
+  },
+  "birthday": "1970-08-07T14:45:56.893Z",
+  "ip": "247.7.94.70",
+  "foo": "bar",
+  "profile": {
+    "about": "Afo wotpac nuvjimek fivoudo betdar sedfa ac va dumsirve habohdub rigufojuc vikoju uf ge pi nozbugi. Hermubim ves poceof tonjoz cigtocot osukos ludmi jorwirwil efifce iplar ga li duhje. Zembiwpi jaz idgulip ru dentumfis wirgiza ole vimhac adufevzal sukjolu kare lagkip vevupafip lowuw cuzejgab. Zapanta jubu desusa ojkaw sunku teuvebo evvi bowzoce folvu fukapkuv ku lov behdowuga afciblek eh ewleuju jugbavpot.",
+    "bio": "Suseri udili as ruf zu uzitibvek otabe evi hilizu distik ene bobihda podtuwa. Kontoif piz gi hucomtot zus tangaaca ataabata ikdura razohti je woivto moh ibo hod ahe. Su wumu fo zitis fa ulazejo abakavop gaug viwilhe mu ocji guresoimi ba dicuza."
+  },
+  "apiKey": "0c9b6d3672594567e7f13fdab7967a66728a5912ef74cb77474159443703f49e",
+  "currency": {
+    "code": "KZT",
+    "name": "Kazakhstan Tenge"
+  }
+}
