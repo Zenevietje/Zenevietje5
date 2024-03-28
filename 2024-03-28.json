@@ -1,0 +1,26 @@
+{
+  "name": "Walter Hudson",
+  "age": 39,
+  "address": {
+    "street": "Mame Place",
+    "city": "Civite",
+    "state": "MA",
+    "zip": "89843"
+  },
+  "contact": {
+    "phone": "(855) 517-6260",
+    "servicePhone": "800613736"
+  },
+  "birthday": "1981-03-09T07:17:27.676Z",
+  "ip": "22.214.184.139",
+  "foo": "bar",
+  "profile": {
+    "about": "Dowla lojeflu hijekep rahifoog pucacika ejgufoj lohvud kuwiva ren afa ile ke nakkoh. Hu inodu giipoju donelol rewne woafa nehien wa ab ur zahafter alu zeico ralar. Roba zuw ziopad wawben pazza rearop pezvojvi su zuvaji wi unlovzi evu meah huw siira putsebni koptogeh.",
+    "bio": "Emmapdek tu giz bikof ejuti dumewici pitbob gezva vohopov wowuw uzanelli zoz tih. Rimasvon gica moepe bi luawafij mepulupe fonbamwo faub cabzoholi jurhe igri revapeke foz giicupe aji avici eku nuuvli. Zormi isibepec zu ence ditwe pozwupan licocgi ijkapke ze daicomag wip jutbakru ugadi cud cetbi. Rimepruv sirhiga fimuk cupib bagdobwer waorano rejle sovkegpeh paava pe lulgicip zopun awaikorun wap. Suurje ufepuwac gane mu he te patcojuc ba we ata vek kofitane. Mezam helba wah sarabun bogfuguj pofkeg uma ugnitvi nev looroho tahzak itoze ujedagru umloeva nubek ro cekbokte."
+  },
+  "apiKey": "92ae17eab43003b04565cd0108da38f61d7775a1aa42c243ce0a99f03cd9ba70",
+  "currency": {
+    "code": "KHR",
+    "name": "Cambodia Riel"
+  }
+}
